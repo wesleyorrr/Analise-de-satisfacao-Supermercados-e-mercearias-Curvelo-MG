@@ -12,4 +12,7 @@ A análise mostra que a maioria dos supermercados e mercearias de Curvelo/MG tem
 Essa visualização pode ser útil para **consumidores**, **gestores de mercado**, ou até para **ações de marketing e melhoria da reputação local**.
 
 ---
-
+# Clone
+Clone este repositório:
+```bash
+git clone https://github.com/seu-usuario/Analise-de-satisfacao-Supermercados-e-mercearias-Curvelo-MG.git
